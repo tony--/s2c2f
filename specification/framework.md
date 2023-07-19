@@ -6,8 +6,6 @@ This document is provided &quot;as-is.&quot; Information and views expressed in 
 
 Some examples depicted herein are provided for illustration only and are fictitious.  No real association or connection is intended or should be inferred.
 
-This document does not provide you with any legal rights to any intellectual property in any Microsoft product. You may copy and use this document for your internal, reference purposes.
-
 Licensed under [Community Specification License 1.0](https://github.com/CommunitySpecification/1.0)
 
 # Table of Contents
